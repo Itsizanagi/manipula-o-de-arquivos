@@ -9,10 +9,6 @@ Modos:
 <table>
     <tbody>
         <tr>
-            <td><b>json.dump</b></td>
-            <td><code> Gera um arquivo json</code></td>
-        </tr>
-        <tr>
             <td><b>write, read</b></td>
             <td><code>Escrever e ler</code></td>
         </tr>
